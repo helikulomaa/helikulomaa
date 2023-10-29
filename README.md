@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Heli Kulomaa and I am a Finnish Information technology student. I study software development in Careeria vocational education school and development of digital services in Haaga-Helia university of applied sciences. My main focus and and interest are in front-end development and UI/UX design.
+My name is Heli Kulomaa and I am a Finnish Information technology student. I have studied software development in Careeria vocational education school and currently studying sofware development and development of digital services in Haaga-Helia university of applied sciences.
 
-I am a career changer and I have a Master's degree in education. Currently I work as an education planner in a university of applied science, but I am open to entry level job opportunities in IT. You can reach me via email (firstname.lastname@gmail.com)
+I am a career changer and I have a Master's degree in education. Currently I work in a university of applied science where I'm working around online learning and digipedagogical solutions.
 
 
 
