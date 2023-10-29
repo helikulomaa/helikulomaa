@@ -2,7 +2,7 @@
 
 My name is Heli Kulomaa and I am a Finnish Information technology student. I have studied software development in Careeria vocational education school and currently studying sofware development and development of digital services in Haaga-Helia university of applied sciences.
 
-I am a career changer and I have a Master's degree in education. Currently I work in a university of applied science where I'm working around online learning and digipedagogical solutions.
+I am a career changer and I have a Master's degree in education. Currently I work in a university of applied science where I'm my days consist of all kinds of things related to online learning and digipedagogical solutions.
 
 
 
